@@ -1,5 +1,5 @@
 {
-  "name": "Dropdown-menu-builder",
+  "name": "dropdown-menu-builder",
   "version": "1.0.0",
   "description": "This will allow you to create a drop down menu with event listeners and styling applied",
   "main": "index.js",
